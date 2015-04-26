@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates a .git directory to start tracking your changes and configuration.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A staging area allows you to have local files on your machine in development you can work on without pushing it o production.
