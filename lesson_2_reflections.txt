@@ -17,3 +17,7 @@ When trying something experimental, adding a new language, or simply adding a ne
 How do the diagrams help you visualize the branch structure?
 
 It allows me to see and better understand the various branches and commmits to each branch. This makes it easier to understand which branch code is being committed to.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You merge a feature into the master branch and get rid of a branch. We represent it this way because it is a feature and developed independantly of the master branch.
