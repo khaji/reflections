@@ -13,3 +13,7 @@ You can save a file and use git add to put it in the staging area and then git c
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When trying something experimental, adding a new language, or simply adding a new feature
+
+How do the diagrams help you visualize the branch structure?
+
+It allows me to see and better understand the various branches and commmits to each branch. This makes it easier to understand which branch code is being committed to.
