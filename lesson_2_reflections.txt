@@ -21,3 +21,7 @@ It allows me to see and better understand the various branches and commmits to e
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You merge a feature into the master branch and get rid of a branch. We represent it this way because it is a feature and developed independantly of the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pro is that if the same lines of code are not touched it is quick and easy to automatically merge. The downside being that if the same code was altered git would have to fige out which to keep which would be hard. You'll want to do it manually so you don't commit the wrong code.
